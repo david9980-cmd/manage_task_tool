@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+pydantic
+python-dotenv
+passlib[bcrypt]
+python-jose
+aiobotocore
+websockets
+PyJWT
